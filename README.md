@@ -29,7 +29,7 @@ these were the main packages used in this rice:
 - zen-browser https://zen-browser.app/
 - discord theme: https://github.com/refact0r/midnight-discord/blob/master/flavors/midnight-catppuccin-mocha.theme.css
 
-#ScreenShots
+# ScreenShots
 
 
 ### desktop with cava and kitty
