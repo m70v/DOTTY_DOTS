@@ -1,7 +1,7 @@
 # DOTTY_DOTS
 my very first hyprland dots
 
-# Most of the dots are either catpuccin mocha or dots from others that i modified to my liking :)
+ Most of the dots are either catpuccin mocha or dots from others that i modified to my liking :)
 
 # Dependencies
 these were the main packages used in this rice:
