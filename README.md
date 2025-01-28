@@ -26,27 +26,33 @@ these were the main packages used in this rice:
 - starship
 - syshud https://github.com/System64fumo/syshud
 - Adwaita for Steam https://github.com/tkashkin/Adwaita-for-Steam
+- zen-browser https://zen-browser.app/
+- discord theme: https://github.com/refact0r/midnight-discord/blob/master/flavors/midnight-catppuccin-mocha.theme.css
 
 #ScreenShots
 
 
-### Empty desktop
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/empty_desktop.png)
+### desktop with cava and kitty
+![desktop](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/desktop.png)
 
-### Music setup
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/music.png)
+### btop 
+![btop](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/btop.png)
 
-### Code
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/code.png)
+### Steam
+![steam](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/steam.png)
 
 ### App launcher + audio hud
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/app_launcher.png)
+![App launcher + audio hud](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/app.png)
 
-### Easy updates
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/easy_updater.png)
+### hyprlock
+![hyprlock](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/hyprlock.png)
 
 ### Logout menu
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/logout_menu.png)
+![wlogout](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/wlogout.png)
 
-### Clipboard menu
-![alt text](https://github.com/NathanGros/BigNats-hyprland-dotfiles/blob/main/screenshots/clipboard_menu.png)
+### Discord
+![Discord](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/discord.png)
+
+
+### Browser
+![browser](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/zen.png)
