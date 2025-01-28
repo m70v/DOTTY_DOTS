@@ -1,5 +1,5 @@
 # DOTTY_DOTS
-my very first hyprland dots
+my very first hyprland rice!!
 
  Most of the dots are either catpuccin mocha or dots from others that i modified to my liking :)
 
