@@ -1,0 +1,49 @@
+{
+   // "$schema": "$XDG_CONFIG_HOME/swaync/configSchema.json",
+    "control-center-height": 2,
+    "control-center-layer": "overlay",
+    "control-center-margin-bottom": 20,
+    "control-center-margin-left": 10,
+    "control-center-margin-right": 0,
+    "control-center-margin-top": 10,
+    "control-center-width": 500,
+    "cssPriority": "application",
+    "control-center-positionX":"right",
+    "control-center-positionY":"center",
+    "fit-to-screen": true,
+    "hide-on-action": false,
+    "hide-on-clear": true,
+    "image-visibility": "when-available",
+    "keyboard-shortcuts": true,
+    "layer": "layer",
+    "notification-body-image-height": 100,
+    "notification-body-image-width": 200,
+    "notification-icon-size": 40,
+    "notification-inline-replies": true,
+    "notification-visibility": {},
+    "notification-window-width": 500,
+    "positionX": "center",
+    "positionY": "top",
+    "script-fail-notify": true,
+    "scripts": {},
+    "timeout": 3,
+    "timeout-critical": 0,
+    "timeout-low": 3,
+    "transition-time": 1000,
+    "widget-config": {
+      "volume": {
+        "label": " ",
+          "show-per-app": true,
+          "show-per-app-icon": true,
+          "show-per-app-label":true
+      }
+  },
+  
+    "widgets": [
+      "title",
+      "notifications",
+      
+      "mpris",
+      "volume"
+    ]
+  }

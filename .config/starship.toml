@@ -1,0 +1,121 @@
+format = """
+[](#1E1E2E)\
+$python\
+$username\
+[](bg:#302D41 fg:#1E1E2E)\
+$directory\
+[](fg:#302D41 bg:#575268)\
+$git_branch\
+$git_status\
+[](fg:#575268 bg:#8D77AB)\
+$c\
+$elixir\
+$elm\
+$golang\
+$haskell\
+$java\
+$julia\
+$nodejs\
+$nim\
+$rust\
+[](fg:#8D77AB bg:#A891F2)\
+$docker_context\
+[](fg:#A891F2 bg:#b08ae0)\
+$time\
+[ ](fg:#b08ae0)\
+"""
+command_timeout = 5000
+# Disable the blank line at the start of the prompt
+# add_newline = false
+
+[username]
+show_always = true
+style_user = "bg:#1E1E2E"
+style_root = "bg:#1E1E2E"
+format = '[$user ]($style)'
+
+[directory]
+style = "bg:#302D41"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+
+[c]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[docker_context]
+symbol = " "
+style = "bg:#A891F2"
+format = '[ $symbol $context ]($style) $path'
+
+[elixir]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[elm]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[git_branch]
+symbol = ""
+style = "bg:#575268"
+format = '[ $symbol $branch ]($style)'
+
+[git_status]
+style = "bg:#575268"
+format = '[$all_status$ahead_behind ]($style)'
+
+[golang]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[haskell]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[java]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[julia]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[nodejs]
+symbol = ""
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[nim]
+symbol = " "
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[python]
+style = "bg:#1E1E2E"
+format = '[(\($virtualenv\) )]($style)'
+
+[rust]
+symbol = ""
+style = "bg:#8D77AB"
+format = '[ $symbol ($version) ]($style)'
+
+[time]
+disabled = false
+time_format = "%R"
+style = "bg:#b08ae0"
+format = '[ $time ]($style)'
