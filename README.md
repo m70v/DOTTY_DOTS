@@ -10,7 +10,7 @@ these were the main packages used in this rice:
 - fastfetch
 - hypridle
 - hyprland 
-- hyprlockh
+- hyprlock
 - swww
 - udiskie
 - waybar
@@ -52,7 +52,6 @@ these were the main packages used in this rice:
 
 ### Discord
 ![Discord](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/discord.png)
-
 
 ### Browser
 ![browser](https://github.com/m70v/DOTTY_DOTS/blob/main/assets/zen.png)
