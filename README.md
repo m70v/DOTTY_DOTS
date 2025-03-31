@@ -2,7 +2,7 @@
 my very first hyprland rice!!
 
  Most of the dots are either catpuccin mocha or dots from others that i modified to my liking :)
-
+# **some of these configs are outdate (mainly the hyprland config)**
 # Dependencies
 these were the main packages used in this rice:
 - btop
