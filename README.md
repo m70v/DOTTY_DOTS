@@ -27,7 +27,7 @@ these were the main packages used in this rice:
 - syshud https://github.com/System64fumo/syshud
 - Adwaita for Steam https://github.com/tkashkin/Adwaita-for-Steam
 - zen-browser https://zen-browser.app/
-- discord theme: https://github.com/refact0r/midnight-discord/blob/master/flavors/midnight-catppuccin-mocha.theme.css
+- discord theme: https://github.com/refact0r/midnight-discord/blob/master/themes/flavors/midnight-catppuccin-mocha.theme.css
 
 # ScreenShots
 
